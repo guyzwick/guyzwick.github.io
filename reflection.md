@@ -1,4 +1,5 @@
-
+Here is my blog site :
+http://guyzwick.github.io/blog.index.html
 
 
 	•	What did you learn about CSS padding, borders, and margin by doing this challenge?
