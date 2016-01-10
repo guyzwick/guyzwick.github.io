@@ -12,7 +12,7 @@ div {
 header {
   border-radius: 5px;
   display:inline-block;
-  margin-left: 11%;
+  margin-left: 14%;
   font-size: 17px;
   }
 
@@ -40,7 +40,7 @@ nav {
   border: 1.5px solid black;
   border-radius: 7px;
   display:inline-block;
-  margin-left: 33%;
+  margin-left: 37.5%;
   padding: 7px;
   position: absolute;
   bottom:10px;
@@ -53,7 +53,7 @@ img {
   border: 1.5px solid black;
   display:inline-block;
   margin-left: 40%;
-  margin-top: 70%
-  bottom:10px;
+  margin-top: 80%
+  bottom:30px;
   padding:5px;
 }
