@@ -48,12 +48,12 @@ p {
 }
 
 .img {
-  width:480px;
+  width:520px;
   height:310px;
   border-radius: 5px;
   border: 1.5px solid black;
   display:inline-block;
-  margin-left: 30s%;
+  margin-left: 30%;
   margin-top: 80%
   bottom:30px;
   padding:5px;
@@ -67,4 +67,14 @@ p {
   bottom:70px;
   left:40.5%;
   margin-bottom: -49%;
+}
+.img2 {
+  width:240px;
+  height:310px;
+  border-radius: 5px;
+  display:inline-block;
+  margin-left: 40%;
+  margin-top: 80%
+  bottom:30px;
+  padding:5px;
 }
