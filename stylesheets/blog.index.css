@@ -1,12 +1,11 @@
 body {
- font-family: arial; 
- background:#ecf2f9;
+ font-family: arial; s
 }
 
 div {
-	display:inline-block;
-	color: black;
-	background-color:#e0ebeb;
+  display:inline-block;
+  color: black;
+  background-color:#e0ebeb;
 }
 
 header {
