@@ -48,12 +48,12 @@ p {
 }
 
 .img {
-  width:220px;
+  width:480px;
   height:310px;
   border-radius: 5px;
   border: 1.5px solid black;
   display:inline-block;
-  margin-left: 41%;
+  margin-left: 30s%;
   margin-top: 80%
   bottom:30px;
   padding:5px;
