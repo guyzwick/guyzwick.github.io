@@ -1,0 +1,31 @@
+body {
+ font-family: arial;
+ background-color:#e5eeff;
+}
+.icon {
+  width:40px;
+  height:40px;
+  display:inline-block;
+  position:relative;
+  left:40.5%;
+  bottom:60px;
+}
+.cheat-sheet1 {
+  width:400px;
+  height:550px;
+  display:inline-block;
+  padding: 5px;
+}
+.cheat-sheet2 {
+  width:900px;
+  height:1050px;
+  display:inline-block;
+  position:float;
+  padding: 5px;
+}
+.cheat-sheet3 {
+  width:98%;
+  height:120px;
+  display:inline-block;
+  padding: 7px;
+}
